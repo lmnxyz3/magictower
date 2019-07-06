@@ -1,0 +1,1 @@
+运行素材文件夹里的magictower.exe即可

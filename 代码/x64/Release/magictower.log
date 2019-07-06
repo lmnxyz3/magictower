@@ -1,0 +1,12 @@
+﻿  magictower.cpp
+d:\c_big\vc1\d1\魔塔素材\魔塔\magictower\magictower2\代码\magictower.cpp(659): warning C4101: “j”: 未引用的局部变量
+d:\c_big\vc1\d1\魔塔素材\魔塔\magictower\magictower2\代码\magictower.cpp(1129): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_big\vc1\d1\魔塔素材\魔塔\magictower\magictower2\代码\magictower.cpp(1133): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_big\vc1\d1\魔塔素材\魔塔\magictower\magictower2\代码\magictower.cpp(1143): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_big\vc1\d1\魔塔素材\魔塔\magictower\magictower2\代码\magictower.cpp(1147): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 58 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  magictower.vcxproj -> D:\c_big\vc1\d1\魔塔素材\魔塔\magictower\magictower2\代码\x64\Release\magictower.exe
